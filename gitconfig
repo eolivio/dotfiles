@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = enia.olivio@gmail.com
+	name = Enia Olivio
